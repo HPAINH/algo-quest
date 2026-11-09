@@ -8,8 +8,6 @@
 
 [![Открыть тренажёр](https://img.shields.io/badge/▶_ПОПРОБОВАТЬ-hpainh.github.io/algo--quest-2B59D9?style=for-the-badge)](https://hpainh.github.io/algo-quest/)
 
-<img src="docs/home.png" alt="Algo Quest" width="860">
-
 </div>
 
 ---
@@ -45,11 +43,6 @@
 сложность,          подсветка кода,        код с тестами          нужно 4 из 5
 ошибки              свои данные            и проверкой скорости
 ```
-
-<div align="center">
-<img src="docs/visualizer.png" alt="Визуализатор" width="430">
-<img src="docs/task.png" alt="Задание с кодом" width="430">
-</div>
 
 ---
 
@@ -137,7 +130,6 @@ PYODIDE_DIR=путь/к/pyodide-0.26.4 python build.py
 algo-quest/
 ├── index.html     # готовое приложение
 ├── py/            # Pyodide: Python в браузере
-├── docs/          # скриншоты
 └── src/           # исходники: шаблон, логика, главы, задачи, сборка
 ```
 </details>
